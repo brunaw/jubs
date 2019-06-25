@@ -1,0 +1,89 @@
+$_ - default variable
+
+.or...to.s.y
+
+. means any character
+[abcd] means one character from the list
++ actually one or more of the previous character
+* actually zero or more of the previous character
+^ must be at the start
+$ must be at the end
+\d digit [0-9]
+\s space character (space, tab, newline, ...)
+\w word character (letter, underscore, digit)
+\D not a digit
+\S not a space
+\W not a word character
+? zero or one of the previous character
+
+
+If you want to match a pattern in $line instead of $_
+
+	$line = "hello world";
+	if ( $line =~ /hello/ )
+
+A longer hand version is:
+
+	$line = "hello world";
+	if ( $line =~ m/hello/ )
+
+Or:
+
+	$line = "hello world";
+	if ( $line =~ m#hello# )
+
+You can do substutition using
+
+	s/hello/goodbye/;
+	s/hello/goodbye/g; # Globally through the line
+	s/hello/goodbye/i; # Case insensitive - Hello, hello and HELLO
+
+You can also use the same longhand here
+
+	$line =~ s/hello/goodbye/;
+	$line =~ s/hello/goodbye/g;
+	$line =~ s#hello#goodbye#i;
+
+Other languages that have regular expressions usually use "Perl Compatible
+Regular Expressions" and use the library pcre.
+
+
+$x = "Hello";
+$x = qq(Hello);
+
+$x = 'Hello';
+$x = q(Hello);
+
+$x = `ls`;
+$x = qx(Hello);
+
+@array = ("Spring", "Summer", "Autumn", "Winter");
+@array = qw(Spring Summer Autumn Winter); # Quoted words
+
+
+Useful Functions
+
+split; - splits $_ on white space
+split(/:/); - split using the pattern /:/ to find where to split (on colons)
+split(/,/); - Cheap CVS split
+split(/,/, $line);
+split(/,/, $line, 3); splits line into max 3 parts using commas
+
+($user, $password, $rest) = split(/:/);
+
+@a = (1..10);
+$string = join(" ", @a);
+$string = join(",", @a);
+
+@b = reverse @a;
+
+
+
+
+
+
+
+
+
+
+

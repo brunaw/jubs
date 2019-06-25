@@ -129,8 +129,8 @@ function train_EM(X, C, rtol = 1e-3, max_iter = 25, restarts = 10)
     best_pi = nothing
     best_mu = nothing
     best_sigma = nothing
+
     for _ in 1:restarts
-        try
             pi = rand(C)
             pi = pi/sum(pi)
             mu = reshape(randn(C * d), (C, d))
@@ -142,7 +142,7 @@ function train_EM(X, C, rtol = 1e-3, max_iter = 25, restarts = 10)
 
             not_saturated = true
             iteration = 0
-            for i in 1
+            for i in 1:10
                 former_loss = copy(lloss)
                 gamma = E_step(X, pi, mu, sigma)
                 pi, mu, sigma = M_step(X, gamma)
@@ -154,5 +154,13 @@ function train_EM(X, C, rtol = 1e-3, max_iter = 25, restarts = 10)
                 not_saturated = abs((lloss[1]/former_loss[1]) - 1) > rtol
                 iteration = iteration + 1
             end
-        end
+            #if(lloss > best_loss)
+            #    best_loss = copy(lloss)
+        #        best_pi = pi
+    #            best_mu = mu
+    #            best_sigma = sigma
+    #        end
+    end
+    #return est_loss, best_pi, best_mu, best_sigma
     return lloss
+end
