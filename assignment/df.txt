@@ -1,0 +1,144 @@
+"song" "n_words"
+"1" "[Drill Sergeant]" 187
+"2" "[JFK]" 81
+"3" "A Crying Shame" 172
+"4" "Aftermath" 109
+"5" "Agitated" 189
+"6" "Algorithm" 94
+"7" "Animals" 147
+"8" "Apocalypse Please" 97
+"9" "Ashamed" 118
+"10" "Assassin" 114
+"11" "Backdoor" 108
+"12" "Balloonatic (Twin demo)" 262
+"13" "Big Freeze" 188
+"14" "Blackout" 99
+"15" "Bliss" 124
+"16" "Blockades" 131
+"17" "Boredom (Newton Abbot Demo)" 203
+"18" "Break It To Me" 114
+"19" "Burning Bandits (Exo-Politics demo)" 126
+"20" "Butterflies And Hurricanes" 172
+"21" "Can't Take My Eyes Off You" 155
+"22" "Cave" 87
+"23" "Citizen Erased" 64
+"24" "City Of Delusion" 200
+"25" "Coma" 155
+"26" "Con-science" 127
+"27" "Crying Shame" 132
+"28" "Dark Shines" 165
+"29" "Dead Inside" 181
+"30" "Dead Star" 146
+"31" "Defector" 69
+"32" "Dig Down" 207
+"33" "Do we need this?" 129
+"34" "Drones" 165
+"35" "Easily" 127
+"36" "Endlessly" 169
+"37" "Escape" 114
+"38" "Eternally Missed" 96
+"39" "Exo-politics" 103
+"40" "Exogenesis Part I (overture)" 164
+"41" "Exogenesis Part II (cross-pollination)" 318
+"42" "Exogenesis Part III (redemption)" 155
+"43" "Explorers" 110
+"44" "Falling Away With You" 186
+"45" "Falling Down" 44
+"46" "Falling With The Crowd (Newton Abbot demo)" 106
+"47" "Feed" 108
+"48" "Feeling Good" 78
+"49" "Fillip" 182
+"50" "Follow Me" 124
+"51" "Forameus" 122
+"52" "Forced in" 95
+"53" "Fury" 166
+"54" "Futurism" 78
+"55" "Gallery" 177
+"56" "Get A Grip" 250
+"57" "Get Up and Fight" 121
+"58" "Get Up and Fight (Feat. Tove Lo)" 132
+"59" "Glorious" 123
+"60" "Guiding Light" 112
+"61" "Hate This & I'll Love You" 207
+"62" "Hoodoo" 120
+"63" "Host" 72
+"64" "House Of The Rising Sun" 146
+"65" "Hyper Chondriac Music" 167
+"66" "Hysteria" 112
+"67" "I Belong To You/Mon Coeur S'ouvre à ta voix" 148
+"68" "In Your World" 159
+"69" "Instant Messenger" 112
+"70" "Interlude" 204
+"71" "intro" 91
+"72" "Invincible" 120
+"73" "Jigsaw Memory" 89
+"74" "Jimmy Kane" 129
+"75" "Knights Of Cydonia" 218
+"76" "Liquid State" 206
+"77" "Madness" 256
+"78" "Map Of The Problematique" 219
+"79" "Map Of Your Head" 287
+"80" "Megalomania" 275
+"81" "Mercy" 140
+"82" "Micro Cuts" 104
+"83" "Mk Ultra" 3
+"84" "Muscle Museum" 200
+"85" "Nature 1" 185
+"86" "Neutron Star Collision (Love Is Forever)" 162
+"87" "New Born" 3
+"88" "New Kind Of Kick" 50
+"89" "Overdue" 147
+"90" "Panic Station" 144
+"91" "Pink Ego Box" 128
+"92" "Please, Please, Please Let Me Get What I Want" 147
+"93" "Plug In Baby" 3
+"94" "Prague" 150
+"95" "Prelude" 261
+"96" "Pressure" 186
+"97" "Propaganda" 67
+"98" "Psycho" 73
+"99" "Razor Blades (screenager demo)" 197
+"100" "Reapers" 168
+"101" "Recess" 236
+"102" "Resistance" 177
+"103" "Revolt" 90
+"104" "Ruled By Secrecy" 3
+"105" "Save Me" 109
+"106" "Screenager" 295
+"107" "Shine Acoustic" 24
+"108" "Showbiz" 144
+"109" "Shrinking Universe" 131
+"110" "Sing For Absolution" 254
+"111" "Soaked" 316
+"112" "Sober" 206
+"113" "Soldier's Poem" 75
+"114" "Something Human" 177
+"115" "Space Dementia" 104
+"116" "Spiral static" 137
+"117" "Starlight" 178
+"118" "Stockholm Syndrome" 118
+"119" "Sunburn" 18
+"120" "Supermassive Black Hole" 87
+"121" "Supremacy" 3
+"122" "Survival" 194
+"123" "Take A Bow" 204
+"124" "The 2nd Law: Isolated System" 112
+"125" "The 2nd Law: Unsustainable" 43
+"126" "The Dark Side" 191
+"127" "The Globalist" 101
+"128" "The Groove" 127
+"129" "The Handler" 129
+"130" "The Smallprint" 184
+"131" "The Void" 169
+"132" "Thought Contagion" 54
+"133" "Thoughts Of A Dying Atheist" 208
+"134" "Time Is Running Out" 334
+"135" "Tsp" 228
+"136" "Twin" 174
+"137" "Undisclosed Desires" 209
+"138" "Unintended" 217
+"139" "United States Of Eurasia" 71
+"140" "Unnatural Selection" 287
+"141" "Uno" 104
+"142" "Uprising" 79
+"143" "Yes Please" 265
